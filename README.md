@@ -15,4 +15,3 @@ System analysis and development student
 
 - 🌱 Estudando python | Learning Python
 - 🙂 Ela/dela | She/her
-- 📧 juliana.mendesmn@gmail.com
