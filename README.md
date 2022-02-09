@@ -3,7 +3,7 @@ Hi!</br>I'm Juliana Mendes 🦋
 </h1>
 
 <p align='center'>
- Sou studante de Análise e desenvolvimento de sistemas
+System analysis and development student
 </p>
 
 <div align='center'>
