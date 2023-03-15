@@ -3,7 +3,9 @@ Hi!</br>I'm Juliana Mendes 🦋
 </h1>
 
 <p align='center'>
-System analysis and development student
+Minha jornada | My journey:
+
+Iniciei os estudos na área de TI, mais especificamente em programação/desenvolvimento em 2020, quando passei a participar de alguns bootcamps e cursos livres gratuitos. Em 2021 entrei em um tecnólogo em análise e desenvolvimento de sistemas, mas tranquei em 2022, nesse meio tempo me afastei dos estudos na área mas atualmente, em 2023 estou retomando e animada para seguir carreira, procurando me qualificar para ser uma futura Dev. em Portugal. 🚀
 </p>
 
 <div align='center'>
