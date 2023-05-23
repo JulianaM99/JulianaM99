@@ -1,11 +1,11 @@
 <h1 align='center'>
-Hi!</br>I'm Juliana Mendes 🦋
+Hi! <br> I'm Juliana Mendes 🦋
 </h1>
 
 <p align='center'>
 Minha jornada | My journey:
 
-  Iniciei os estudos na área de TI, especificamente em programação/desenvolvimento em 2020, quando passei a participar de alguns bootcamps e cursos livres gratuitos. Em 2021 entrei em um tecnólogo em análise e desenvolvimento de sistemas, mas tranquei em 2022. 
+  Iniciei os estudos na área de TI, especificamente em programação/desenvolvimento em 2020, quando passei a participar de alguns bootcamps e cursos livres gratuitos. Em 2021 entrei em um tecnólogo em análise e desenvolvimento de sistemas, mas tranquei em 2022. <br>
   Em 2023 retomei os estudos e estou animada para seguir carreira, atualmente estou fazendo o curso Explorer da Rocketseat, para me qualificar como Desenvolvedora WEB.
 </p>
 
