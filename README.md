@@ -5,7 +5,7 @@ Hi!</br>I'm Juliana Mendes 🦋
 <p align='center'>
 Minha jornada | My journey:
 
-Iniciei os estudos na área de TI, mais especificamente em programação/desenvolvimento em 2020, quando passei a participar de alguns bootcamps e cursos livres gratuitos. Em 2021 entrei em um tecnólogo em análise e desenvolvimento de sistemas, mas tranquei em 2022, nesse meio tempo me afastei dos estudos na área mas atualmente, em 2023 estou retomando e animada para seguir carreira, procurando me qualificar para ser uma futura Dev. em Portugal. 🚀
+Iniciei os estudos na área de TI, especificamente em programação/desenvolvimento em 2020, quando passei a participar de alguns bootcamps e cursos livres gratuitos. Em 2021 entrei em um tecnólogo em análise e desenvolvimento de sistemas, mas tranquei em 2022. Em 2023 retomei os estudos e estou animada para seguir carreira, atualmente estou fazendo o curso Explorer da Rocketseat, para me qualificar como Desenvolvedora WEB.
 </p>
 
 <div align='center'>
